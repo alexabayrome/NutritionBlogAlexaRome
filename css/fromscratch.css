@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(185, 214, 241);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+li{
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+h4{
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p {
+  border: 2px solid rgb(230, 240, 240);
+  border-radius: 5px;
+}
+
+p.ridge {border-style: ridge;}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h5 {
+  font-size: large;
+  text-align: center;
+}
+
+
+.myDiv {
+  border: 5px outset rgb(57, 31, 201);
+  background-color: white;
+  text-align: center;
+  color:blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1em;
+}
+
+.myDiv2 {
+  border: 5px outset rgb(133, 237, 158);
+  background-color: white;
+  text-align: center;
+  color:rgb(37, 150, 220);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1em;
+}
+
+.myDiv3 {
+  border: 5px outset rgb(133, 237, 158);
+  background-color: white;
+  text-align: center;
+  color:rgb(37, 150, 220);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1em;
+}
